@@ -1,2 +1,2 @@
 # Rest-Services-with-FlyWay
-REST Service with FlyWay
+PUT, POST, DELETE, GET METHODS.
